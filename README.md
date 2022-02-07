@@ -1,1 +1,1 @@
-# minimalOSteam.github.io
+# minimalOS Website
